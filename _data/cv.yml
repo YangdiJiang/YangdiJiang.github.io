@@ -23,13 +23,13 @@
        #     - Sub-description 2.
     - title: Master of Science
       institution: University of Alberta, Alberta, Canada
-      year: 2019-2021
+      year: 2019 - 2021
       description:
         - Statistical Machine Learning.
         # - Description 2.
     - title: Bachelor of Science with Specialization
       institution: University of Alberta, Alberta, Canada
-      year: 2019-2021
+      year: 2013 - 2017
       description:
         - Mathematics and Finance.
         - Graduation with Distinction.
@@ -37,35 +37,23 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Statistical Consultant
+      institution: Training Consultant Center 
+      year: 2024 - now
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Graduate Teaching Assistant
+      institution: University of Alberta
+      year: 2019 - now
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Intern Statistician
+      institution: Replica Analytics
+      year: 2020-2021
 
 # - title: Open Source Projects
 #   type: time_table
@@ -78,13 +66,25 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Alberta Innovates Graduate Student Scholarships
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Dr. Josephine M. Mitchell Research Scholarship
+    - year: 2021
+      items:
+        - Dr. Josephine M. Mitchell Research Scholarship
+    - year: 2017
+      items:
+        - A Thorleif M Fostvedt Scholarship in Mathematics
+        - The John Ross McGregor Scholarship in Mathematical and Statistical Science
+    - year: 2016
+      items:
+        - A Thorleif M Fostvedt Scholarship in Mathematics
+    - year: 2015
+      items:
+        - A Thorleif M Fostvedt Scholarship in Mathematics  
 
 - title: Academic Interests
   type: nested_list
@@ -94,12 +94,10 @@
         - Geometric Statistics.
         - Differential Privacy.
         - Bayesian Nonparametric. 
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Topological Data Analysis.
+    - title: Bayesian Singular Learning Theory.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
