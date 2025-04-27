@@ -3,11 +3,73 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{Jiang2023nips,
+  author       = {\textbf{Yangdi Jiang} and
+                  Xiaotian Chang and
+                  Yi Liu and
+                  Lei Ding and
+                  Linglong Kong and
+                  Bei Jiang},
+  title        = {Gaussian Differential Privacy on Riemannian Manifolds},
+  booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference
+                  on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans,
+                  LA, USA, December 10 - 16, 2023},
+  year         = {2023},
+  pdf={https://proceedings.neurips.cc/paper_files/paper/2023/file/2f27964513a28d034530bfdd117ea31d-Paper-Conference.pdf}
+}
+
+@article{Jiang2024aaai, 
+title={Analysis of Differentially Private Synthetic Data: A Measurement Error Approach}, 
+volume={38}, 
+url={https://ojs.aaai.org/index.php/AAAI/article/view/30114}, DOI={10.1609/aaai.v38i19.30114}, 
+abstractNote={Differentially private (DP) synthetic datasets have been receiving significant attention from academia, industry, and government. However, little is known about how to perform statistical inference using DP synthetic datasets. Naive approaches that do not take into account the induced uncertainty due to the DP mechanism will result in biased estimators and invalid inferences. In this paper, we present a class of maximum likelihood estimator (MLE)-based easy-to-implement bias-corrected DP estimators with valid asymptotic confidence intervals (CI) for parameters in regression settings, by establishing the connection between additive DP mechanisms and measurement error models. Our simulation shows that our estimator has comparable performance to the widely used sufficient statistic perturbation (SSP) algorithm in some scenarios but with the advantage of releasing a synthetic dataset and obtaining statistically valid asymptotic CIs, which can achieve better coverage when compared to the naive CIs obtained by ignoring the DP mechanism.}, 
+number={19}, 
+journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+author={\textbf{Yangdi Jiang} and 
+                Yi Liu and 
+                Xiaodong Yan and 
+                Anne-Sophie Charest and 
+                Linglong Kong and 
+                Bei Jiang}, 
+year={2024}, 
+month={Mar.}, 
+pages={21206-21213},
+html ={https://ojs.aaai.org/index.php/AAAI/article/view/30114},
+pdf = {https://ojs.aaai.org/index.php/AAAI/article/view/30114/31968}
+}
+
+@article{jiang2022plusone,
+    doi = {10.1371/journal.pone.0269097},
+    author = {\textbf{Yangdi Jiang} and 
+                      Lucy Mosquera and 
+                      Bei Jiang and 
+                      Linglong Kong and 
+                      Khaled El Emam},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Measuring re-identification risk using a synthetic estimator to enable data sharing},
+    year = {2022},
+    month = {06},
+    volume = {17},
+    url = {https://doi.org/10.1371/journal.pone.0269097},
+    pages = {1-19},
+    abstract = {Background One common way to share health data for secondary analysis while meeting increasingly strict privacy regulations is to de-identify it. To demonstrate that the risk of re-identification is acceptably low, re-identification risk metrics are used. There is a dearth of good risk estimators modeling the attack scenario where an adversary selects a record from the microdata sample and attempts to match it with individuals in the population.   Objectives Develop an accurate risk estimator for the sample-to-population attack.   Methods A type of estimator based on creating a synthetic variant of a population dataset was developed to estimate the re-identification risk for an adversary performing a sample-to-population attack. The accuracy of the estimator was evaluated through a simulation on four different datasets in terms of estimation error. Two estimators were considered, a Gaussian copula and a d-vine copula. They were compared against three other estimators proposed in the literature.   Results Taking the average of the two copula estimates consistently had a median error below 0.05 across all sampling fractions and true risk values. This was significantly more accurate than existing methods. A sensitivity analysis of the estimator accuracy based on variation in input parameter accuracy provides further application guidance. The estimator was then used to assess re-identification risk and de-identify a large Ontario COVID-19 behavioral survey dataset.   Conclusions The average of two copula estimators consistently provides the most accurate re-identification risk estimate and can serve as a good basis for managing privacy risks when data are de-identified and shared.},
+    number = {6},
+    html ={https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269097},
+    pdf ={https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0269097&type=printable}
+}
+
+@article{HUANG2024131342,
+  title = {Modelling impacts of climate change on snow drought, groundwater drought, and their feedback mechanism in a snow-dominated watershed in western Canada},
+  journal = {Journal of Hydrology},
+  volume = {636},
+  pages = {131342},
+  year = {2024},
+  issn = {0022-1694},
+  doi = {https://doi.org/10.1016/j.jhydrol.2024.131342},
+  url = {https://www.sciencedirect.com/science/article/pii/S0022169424007376},
+  author = {Yinlong Huang and Yangdi Jiang and Bei Jiang and Ryan T. Bailey and Badrul Masud and Brian Smerdon and Monireh Faramarzi},
+  keywords = {SWAT-MODFLOW, Groundwater response, Drought propagation time, Watershed modelling, Drought intensity, Drought duration, Drought frequency, Physical processes},
+  html = {https://www.sciencedirect.com/science/article/abs/pii/S0022169424007376}
 }
 
