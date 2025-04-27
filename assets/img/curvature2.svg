@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 500 400">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer 3" vectornator:layerName="Layer 3">
+<path stroke="#231f20" stroke-width="0.5" d="M385.071+151.941C395.912+164.189+342.884+191.562+266.63+213.081C190.376+234.599+119.771+242.113+108.93+229.865" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round" stroke-dasharray="1.410980440363907,3.109404589115998"/>
+<path stroke="#231f20" stroke-width="0.5" d="M108.93+229.865C98.0893+217.616+151.117+190.243+227.371+168.725C303.625+147.207+374.23+139.693+385.071+151.941" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="Layer 4" vectornator:layerName="Layer 4">
+<path stroke="#000000" stroke-width="0.5" d="M254.355+54.4292C306.577+54.4292+348.911+119.603+348.911+200C348.911+280.397+306.577+345.571+254.355+345.571" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="0.5" d="M254.355+345.571C202.134+345.571+159.8+280.397+159.8+200C159.8+119.603+202.134+54.4292+254.355+54.4292" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round" stroke-dasharray="1.746543105835488,3.223837185835506"/>
+</g>
+<g id="Layer 2" vectornator:layerName="Layer 2">
+<path stroke="#231f20" stroke-width="1" d="M103.656+200C103.656+119.603+169.177+54.4292+250+54.4292C330.823+54.4292+396.344+119.603+396.344+200C396.344+280.397+330.823+345.571+250+345.571C169.177+345.571+103.656+280.397+103.656+200Z" fill="#ffb481" stroke-linecap="butt" fill-opacity="0.540297" opacity="1" stroke-linejoin="miter"/>
+</g>
+<g id="Layer 5" vectornator:layerName="Layer 5">
+<path stroke="#b1ffb3" stroke-width="2" d="M298.634+71.3443C328.542+95.792+348.911+144.234+348.911+200C348.911+238.834+339.033+274.116+322.935+300.218" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#b1e3ff" stroke-width="2" d="M245.167+164.713C304.87+149.013+358.775+142.468+379.564+148.001" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#ff517c" stroke-width="2" d="M333.546+146.063C333.546+141.368+337.352+137.561+342.048+137.561C346.744+137.561+350.55+141.368+350.55+146.063C350.55+150.759+346.744+154.566+342.048+154.566C337.352+154.566+333.546+150.759+333.546+146.063Z" fill="#ff517c" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>
