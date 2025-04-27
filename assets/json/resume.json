@@ -33,10 +33,6 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-    }
-  ],
   "education": [
     {
       "institution": "University of Alberta",
@@ -45,9 +41,7 @@
       "area": "Statistical Machine Learning",
       "studyType": "PhD",
       "startDate": "2021-09-01",
-      "endDate": "2025-08-01",
-      "score": "10",
-      "courses": [""]
+      "endDate": "2025-08-01"
     },
     {
       "institution": "University of Alberta",
@@ -56,9 +50,7 @@
       "area": "Statistical Machine Learning",
       "studyType": "Master of Science",
       "startDate": "2019-09-01",
-      "endDate": "2021-11-19",
-      "score": "10",
-      "courses": [""]
+      "endDate": "2021-11-19"
     },
     {
       "institution": "University of Alberta",
@@ -67,9 +59,7 @@
       "area": "Mathematics and Finance",
       "studyType": "Bachelor of Science with Specialization",
       "startDate": "2013-09-01",
-      "endDate": "2017-06-13",
-      "score": "10",
-      "courses": [""]
+      "endDate": "2017-06-13"
     }
   ],
   "awards": [
@@ -86,28 +76,12 @@
       "awarded": "University of Alberta"
     }
   ],
-  "certificates": [
-    {
-    }
-  ],
   "publications": [
     {
     }
   ],
   "skills": [
     {
-    }
-  ],
-  "languages": [
-    {
-      "language": "Mandarin Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [
@@ -134,8 +108,4 @@
       "reference": "Professor at University of Alberta"
     }
   ],
-  "projects": [
-    {
-    }
-  ]
 }
