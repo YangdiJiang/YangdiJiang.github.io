@@ -13,22 +13,28 @@
   contents:
     - title: PhD
       institution: University of Alberta, Alberta, Canada
-      year: 2025
+      year: 2021 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Statistical Machine Learning.
+        # - Description 2.
+       # - title: Description 3.
+       #   contents:
+       #     - Sub-description 1.
+       #     - Sub-description 2.
+    - title: Master of Science
+      institution: University of Alberta, Alberta, Canada
+      year: 2019-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Statistical Machine Learning.
+        # - Description 2.
+    - title: Bachelor of Science with Specialization
+      institution: University of Alberta, Alberta, Canada
+      year: 2019-2021
+      description:
+        - Mathematics and Finance.
+        - Graduation with Distinction.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -61,12 +67,13 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 
 - title: Honors and Awards
   type: time_table
@@ -82,10 +89,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Statistics.
       items:
-        - Description 1.
-        - Description 2.
+        - Geometric Statistics.
+        - Differential Privacy.
+        - Bayesian Nonparametric. 
     - title: Topic 2.
       items:
         - Description 1.
