@@ -25,4 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research lies at the intersection of geometry, statistics, and machine learning. My past and ongoing work has focused on geometric statistics under privacy constraints, including differentially private Fréchet mean estimation, a central limit theorem for the differentially private Fréchet mean estimator, and Bayesian deconvolution on manifolds. Recently, I have developed a growing interest in leveraging geometry and topology to understand the inner workings of AI and machine learning models. For instance, the parameter spaces of various neural networks exhibit singular geometric structures, and generalization error has been shown to correlate with the persistent homology dimension of their training trajectories. 
+My research lies at the intersection of geometry, statistics, and machine learning. My past and ongoing work has focused on geometric statistics under privacy constraints, including differentially private Fréchet mean estimation, a central limit theorem for the differentially private Fréchet mean estimator, and Bayesian deconvolution on manifolds. 
+
+Recently, I have developed a growing interest in leveraging geometry and topology to understand the inner workings of AI and machine learning models. For instance, the parameter spaces of various neural networks exhibit singular geometric structures, and generalization error has been shown to correlate with the persistent homology dimension of their training trajectories. 
+
+You can find my [CV](https://yangdijiang.github.io/assets/pdf/CV_Yangdi_Jiang.pdf) and [research statement](https://yangdijiang.github.io/assets/pdf/Research_Statement_Yangdi_Jiang.pdf) here (updated April 27, 2025).
+
