@@ -29,5 +29,7 @@ My research lies at the intersection of geometry, statistics, and machine learni
 
 Recently, I have developed a growing interest in leveraging geometry and topology to understand the inner workings of AI and machine learning models. For instance, the parameter spaces of various neural networks exhibit singular geometric structures, and generalization error has been shown to correlate with the persistent homology dimension of their training trajectories. 
 
-You can find my [CV](https://yangdijiang.github.io/assets/pdf/CV_Yangdi_Jiang.pdf) and [research statement](https://yangdijiang.github.io/assets/pdf/Research_Statement_Yangdi_Jiang.pdf) here (updated April 27, 2025).
+You can find my [CV](https://yangdijiang.github.io/assets/pdf/CV_Yangdi_Jiang.pdf) and [research statement](https://yangdijiang.github.io/assets/pdf/Research_Statement_Yangdi_Jiang.pdf) here. Updated April 27, 2025.
+
+When I’m not working, you’ll probably find me out running, anywhere from quiet neighbourhood streets to marathon courses.
 
