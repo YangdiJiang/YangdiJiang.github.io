@@ -3,21 +3,18 @@
 
 @string{aps = {American Physical Society,}}
 
-@inproceedings{Jiang2023nips,
-  author       = {Yangdi Jiang and
-                  Xiaotian Chang and
-                  Yi Liu and
-                  Lei Ding and
-                  Linglong Kong and
-                  Bei Jiang},
-  title        = {Gaussian Differential Privacy on Riemannian Manifolds},
-  booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference
-                  on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans,
-                  LA, USA, December 10 - 16, 2023},
-  year         = {2023},
-  month = {December}, 
+@inproceedings{10.5555/3666122.3666767,
+  author = {Jiang, Yangdi and Chang, Xiaotian and Liu, Yi and Ding, Lei and Kong, Linglong and Jiang, Bei},
+  title = {Gaussian differential privacy on Riemannian manifolds},
+  year = {2023},
+  publisher = {Curran Associates Inc.},
+  abstract = {We develop an advanced approach for extending Gaussian Differential Privacy (GDP) to general Riemannian manifolds. The concept of GDP stands out as a prominent privacy definition that strongly warrants extension to manifold settings, due to its central limit properties. By harnessing the power of the renowned Bishop-Gromov theorem in geometric analysis, we propose a Riemannian Gaussian distribution that integrates the Riemannian distance, allowing us to achieve GDP in Riemannian manifolds with bounded Ricci curvature. To the best of our knowledge, this work marks the first instance of extending the GDP framework to accommodate general Riemannian manifolds, encompassing curved spaces, and circumventing the reliance on tangent space summaries. We provide a simple algorithm to evaluate the privacy budget μ on any one-dimensional manifold and introduce a versatile Markov Chain Monte Carlo (MCMC)-based algorithm to calculate μ on any Riemannian manifold with constant curvature. Through simulations on one of the most prevalent manifolds in statistics, the unit sphere Sd, we demonstrate the superior utility of our Riemannian Gaussian mechanism in comparison to the previously proposed Riemannian Laplace mechanism for implementing GDP.},
+  booktitle = {Proceedings of the 37th International Conference on Neural Information Processing Systems},
+  articleno = {645},
+  numpages = {20},
+  selected = {true},
   pdf={https://proceedings.neurips.cc/paper_files/paper/2023/file/2f27964513a28d034530bfdd117ea31d-Paper-Conference.pdf},
-  selected = {true}
+  month = {December}, 
 }
 
 @article{Jiang2024aaai, 
@@ -36,6 +33,7 @@ author={Yangdi Jiang and
                 Bei Jiang}, 
 year={2024}, 
 month={March}, 
+abstract = {Differentially private (DP) synthetic datasets have been receiving significant attention from academia, industry, and government. However, little is known about how to perform statistical inference using DP synthetic datasets. Naive approaches that do not take into account the induced uncertainty due to the DP mechanism will result in biased estimators and invalid inferences. In this paper, we present a class of maximum likelihood estimator (MLE)-based easy-to-implement bias-corrected DP estimators with valid asymptotic confidence intervals (CI) for parameters in regression settings, by establishing the connection between additive DP mechanisms and measurement error models. Our simulation shows that our estimator has comparable performance to the widely used sufficient statistic perturbation (SSP) algorithm in some scenarios but with the advantage of releasing a synthetic dataset and obtaining statistically valid asymptotic CIs, which can achieve better coverage when compared to the naive CIs obtained by ignoring the DP mechanism.},
 pages={21206-21213},
 pdf = {https://ojs.aaai.org/index.php/AAAI/article/view/30114/31968}
 }
@@ -70,6 +68,7 @@ pdf = {https://ojs.aaai.org/index.php/AAAI/article/view/30114/31968}
   issn = {0022-1694},
   doi = {https://doi.org/10.1016/j.jhydrol.2024.131342},
   url = {https://www.sciencedirect.com/science/article/pii/S0022169424007376},
+  abstract = {Snow accumulation and its melt are key hydrological processes in cold watersheds, which can affect groundwater (GW). With climate change projected to alter snow processes in these regions, understanding their impacts on the development of droughts is vital. A deficit in snow precipitation or accelerated snowmelt due to warming can trigger snow drought, potentially leading to GW drought. To investigate this relationship at a watershed scale, we coupled the Soil and Water Assessment Tool (SWAT) and MODFLOW to simulate various surface and groundwater processes under historical (1980–2013) and future (2040–2073) warming scenarios in western Canada. We calibrated, validated, and verified our models using streamflow, GW heads, and snow depth data from multiple hydrometric stations, observation wells, and a grid product. Using simulated data, we analyzed snow and GW drought characteristics, their dominant physical processes, and GW response time across eco-hydro(geo)logical regions like Mountains, Foothills, and Plains. Historical data show that Mountains are experiencing more snow droughts while Plains are facing greater GW droughts. However, future scenarios suggest increased snow droughts in all regions and a shift towards more severe GW droughts in Plains. Historical response time of GW to changes in snow processes spans 4–6 months from Mountains to Plains, with projected reductions in Mountains and Foothills, and a slight increase in Plains in the future. The dominant physical processes controlling GW response across all regions are soil moisture and percolation, with curve number displaying more significance in Mountains, and water yield exerts more control in Foothills and Plains. During cold seasons, SWE and snowmelt had minimal impact on GW response in Plains, while they presented a major role in Mountains. This study lays the basis for further research on snow-groundwater interactions in cold watersheds, aiding water resource management in mid-to-high latitude regions and providing a unified framework for analyzing snow and GW drought relationships.},
   author = {Yinlong Huang and Yangdi Jiang and Bei Jiang and Ryan T. Bailey and Badrul Masud and Brian Smerdon and Monireh Faramarzi},
   keywords = {SWAT-MODFLOW, Groundwater response, Drought propagation time, Watershed modelling, Drought intensity, Drought duration, Drought frequency, Physical processes}
 }
