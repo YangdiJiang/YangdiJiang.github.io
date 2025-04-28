@@ -53,7 +53,7 @@
 
     - title: Intern Statistician
       institution: Replica Analytics
-      year: 2020-2021
+      year: 2020 - 2021
 
 # - title: Open Source Projects
 #   type: time_table
@@ -63,7 +63,7 @@
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 
-- title: Honors and Awards
+- title: Scholarships
   type: time_table
   contents:
     - year: 2024
@@ -86,14 +86,14 @@
       items:
         - A Thorleif M Fostvedt Scholarship in Mathematics  
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Statistics.
       items:
         - Geometric Statistics.
-        - Differential Privacy.
         - Bayesian Nonparametric. 
+    - title: Differential Privacy. 
     - title: Topological Data Analysis.
     - title: Bayesian Singular Learning Theory.
 
