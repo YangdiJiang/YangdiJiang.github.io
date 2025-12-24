@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in Statistical Machine Learning at <a href='https://www.ualberta.ca/en/mathematical-and-statistical-sciences/index.html'>University of Alberta</a>. 
+subtitle: Research fellow at <a href='https://www.ntu.edu.sg/spms'>SPMS</a> in NTU Singapore. 
 
 profile:
   align: right
