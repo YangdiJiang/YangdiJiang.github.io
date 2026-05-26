@@ -29,5 +29,7 @@ My research lies at the intersection of geometry, statistics, and machine learni
 
 Recently, I have developed a growing interest in leveraging geometry and topology to understand the inner workings of AI and machine learning models. For instance, the parameter spaces of various neural networks exhibit singular geometric structures, and generalization error has been shown to correlate with the persistent homology dimension of their training trajectories. 
 
+For up-to-date publications, see my <a href='https://scholar.google.com/citations?user=-UMDO2EAAAAJ&hl=en'>Google Scholar</a> profile. 
+
 When I’m not working, you’ll probably find me out running, anywhere from quiet neighbourhood streets to marathon courses.
 
